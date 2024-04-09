@@ -1,5 +1,17 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div class=""></div>
 </template>
+
+<script>
+export default {
+  components: {},
+  data() {
+    return {}
+  },
+  computed: {},
+  watch: {},
+  methods: {}
+}
+</script>
+
+<style scoped></style>
